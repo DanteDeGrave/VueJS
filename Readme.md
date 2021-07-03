@@ -1,6 +1,6 @@
 # Личный проект «VuePizza»
 
-* Студент: [Ольга Попова](https://up.htmlacademy.ru/vue/1/user/421229).
+* Студент: [Владимир Попов](https://htmlacademy.ru/profile/dantedegrave).
 
 ---
 
